@@ -18,6 +18,7 @@ OpenAI API key
 
 Clone the repository 
 Create Venv and Install dependencies by running : 
+
 step1: Clone the repository
 
 Run These commands
