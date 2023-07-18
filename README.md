@@ -32,6 +32,9 @@ step5: python manage.py runserver
 
 Make sure you have assigned your openAI Api key in openapp/views.py in line.NO 19
 
+
+Prompts
+
 Open-ended:
 
 Discuss the challenges and joys of postpartum care.
